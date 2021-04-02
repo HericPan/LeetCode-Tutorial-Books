@@ -1,0 +1,3 @@
+C:/Users/panru/Desktop/hericC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/panru/Desktop/hericC/cmake-build-debug/CMakeFiles/hericC.dir
+C:/Users/panru/Desktop/hericC/cmake-build-debug/CMakeFiles/edit_cache.dir
